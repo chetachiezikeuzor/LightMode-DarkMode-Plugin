@@ -1,4 +1,16 @@
-/* Sets all the text color to red! */
-body {
-    color: red;
+/*----------------------------------------------------------------
+LD STATUS BAR BUTTONS
+----------------------------------------------------------------*/
+
+.LD-statusbar-button {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  line-height: 1;
+}
+
+.LD-statusbar-button svg {
+  display: flex;
+  width: 1.3em;
+  height: 1.3em;
 }
