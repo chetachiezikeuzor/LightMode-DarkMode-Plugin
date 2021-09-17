@@ -1,7 +1,7 @@
 {
   "id": "lightmode-darkmode-plugin",
-  "name": "LightMode DarkMode Plugin",
-  "version": "0.0.1",
+  "name": "LightMode DarkMode",
+  "version": "0.0.2",
   "minAppVersion": "0.9.12",
   "description": "This is a simple plugin that adds a button to status bar to change between lightmode and darkmode.",
   "author": "chetachi",
